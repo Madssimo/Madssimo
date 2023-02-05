@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Madssimo, i'm a Software Engineer based on Panama
 - 👀 I’m interested in tech in general but mostly on Blockchain technology and mobile development
-- 🌱 I’m currently learning about smart contracts and blockchain development and working with Microsoft's PowerPlatform at current job
+- 🌱 I’m currently learning about smart contracts and blockchain development and working with Microsoft's PowerPlatform at my current job
 - 💞️ I’m looking to collaborate on any kind of project
 - 📫 How to reach me: all my social media @Madssimo, my e-mail: gian0897@gmail.com
 <!---
